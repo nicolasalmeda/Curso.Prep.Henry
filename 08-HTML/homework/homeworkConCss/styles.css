@@ -1,0 +1,50 @@
+body {
+  background-image: url(https://previews.123rf.com/images/fieryphoenix/fieryphoenix1511/fieryphoenix151101284/47611949-pluma-en-un-fondo-claro-primer-plano-atenci%C3%B3n-selectiva-y-el-lugar-de-texto.jpg);
+}
+
+div.divClass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  color: blueviolet;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+img {
+  width: 400px;
+}
+
+#thirdDiv {
+  width: 500px;
+  height: 600px;
+  background-color: brown;
+  padding: 50px;
+  border: 3px;
+  border-color: black;
+  border-style: double;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+div a {
+  margin-bottom: 20px;
+}
+
+div.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
